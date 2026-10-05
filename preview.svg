@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eaf5ff"/><stop offset="1" stop-color="#cfe6fb"/></linearGradient></defs>
+<rect width="1200" height="630" fill="url(#g)"/>
+<circle cx="1050" cy="90" r="190" fill="#ffffff" opacity=".5"/>
+<circle cx="120" cy="580" r="220" fill="#ffffff" opacity=".4"/>
+<rect x="72" y="68" width="1056" height="494" rx="42" fill="#fff" opacity=".94"/>
+<text x="120" y="160" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#5681aa">V SQUARE CLINIC • STAFF EXAM</text>
+<text x="120" y="255" font-family="Arial, sans-serif" font-size="60" font-weight="800" fill="#173e70">Promotion Ulthera Prime</text>
+<text x="120" y="325" font-family="Arial, sans-serif" font-size="43" font-weight="700" fill="#2d6598">Beyond the Lift &amp; Prime Max</text>
+<line x1="120" y1="375" x2="1080" y2="375" stroke="#c9dbea" stroke-width="3"/>
+<text x="120" y="445" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#173e70">25 Questions</text>
+<text x="420" y="445" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#173e70">Pass 80%</text>
+<text x="120" y="510" font-family="Arial, sans-serif" font-size="25" fill="#64788d">Online Knowledge Assessment</text>
+</svg>
